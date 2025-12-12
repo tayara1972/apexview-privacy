@@ -2,11 +2,12 @@
 
 **Effective date:** December 12, 2025
 
-ApexView (“the App”) is a personal finance app designed to help you track accounts, net worth, income and expenses, and investment holdings. Your financial data is stored on your device.
+ApexView (“the App”) is a personal finance app designed to help you track accounts, net worth, income and expenses, and investment holdings. Your financial data is stored locally on your device and is not transmitted to our servers.
+
 
 This Privacy Policy explains what information the App collects, how it is used, and the choices you have.
 
-## Information We Collect
+## Data We Collect
 
 ### 1) Data you enter into the App
 ApexView stores the information you enter (such as accounts, balances, holdings, and categories) locally on your device for the purpose of providing the App’s features.
@@ -23,7 +24,7 @@ ApexView can record technical diagnostics events to help identify bugs and relia
 When enabled and sent, diagnostics may include:
 - Which App endpoint was involved (`/quotes`, `/fx`, `/search`)
 - HTTP status code (if available)
-- Error type (for example: network error, decoding error, rate limiting)
+- Error type (for example: network error or decoding error)
 - Timestamp
 - App version
 - iOS version
@@ -31,7 +32,7 @@ When enabled and sent, diagnostics may include:
 - Backend environment label (staging/production)
 - A random request identifier (UUID)
 
-## Information We Do Not Collect
+## Data We Do Not Collect
 
 ApexView’s anonymous diagnostics are designed to avoid personal and financial data. Diagnostics do not include:
 - Your name, email address, phone number, or contacts
@@ -53,7 +54,8 @@ We do not use diagnostics for advertising, profiling, or marketing.
 
 We do not sell your data.
 
-If you choose to send anonymous diagnostics, those diagnostics are transmitted to our server and may be processed for troubleshooting and improving the App. We do not share diagnostics with third parties except as needed to operate the App and comply with law.
+If you choose to send anonymous diagnostics, those diagnostics are transmitted to our server and may be processed for troubleshooting and improving the App. We do not sell diagnostics and do not share them with third parties for advertising, analytics, or marketing purposes. Diagnostics are processed only on our own servers for the purpose of improving App reliability, or disclosed if required by law.
+
 
 ## Third-Party Services
 
@@ -90,4 +92,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 If you have questions about this Privacy Policy, contact:
 
 **ApexView Support**  
-Email: (add your support email here)
+Email: tayara72@gmail.com

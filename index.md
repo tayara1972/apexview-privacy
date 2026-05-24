@@ -92,4 +92,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 If you have questions about this Privacy Policy, contact:
 
 **ApexView Support**  
-Email: tayara72@gmail.com
+Email: support@apexviewapp.com

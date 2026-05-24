@@ -1,95 +1,203 @@
 # ApexView Privacy Policy
 
-**Effective date:** December 12, 2025
+**Effective Date:** May 24, 2026
 
-ApexView (“the App”) is a personal finance app designed to help you track accounts, net worth, income and expenses, and investment holdings. Your financial data is stored locally on your device and is not transmitted to our servers.
+ApexView (“ApexView,” “the App,” “we,” “us,” or “our”) is a personal finance app designed to help users track accounts, assets, net worth, income, expenses, investment holdings, and retirement projections.
 
+Your core financial records are stored locally on your device. This includes information such as account names, balances, holdings quantities, income, expenses, categories, net worth calculations, and retirement planning assumptions.
 
-This Privacy Policy explains what information the App collects, how it is used, and the choices you have.
+To provide certain optional or online features, including market quotes, foreign exchange rates, and symbol search, the App may send limited request information to our backend services, as described below.
 
-## Data We Collect
+This Privacy Policy explains what information ApexView processes, how it is used, and the choices available to you.
 
-### 1) Data you enter into the App
-ApexView stores the information you enter (such as accounts, balances, holdings, and categories) locally on your device for the purpose of providing the App’s features.
+## 1. Information Stored Locally on Your Device
 
-We do not require you to create an account.
+ApexView stores the financial information you enter into the App locally on your device so that the App can provide its core tracking and planning features.
 
-### 2) Anonymous Diagnostics (optional)
-ApexView can record technical diagnostics events to help identify bugs and reliability issues. These diagnostics are:
+This information may include:
 
-- Recorded locally on your device
-- Not sent anywhere by default
-- Sent to our server only if you explicitly opt in and manually tap “Send report now”
+- Account names and account types
+- Account balances
+- Asset and investment holdings
+- Holdings quantities
+- Income and expenses
+- Categories and notes you enter
+- Net worth calculations
+- Retirement planning inputs, assumptions, and projections
+- App preferences and settings
 
-When enabled and sent, diagnostics may include:
-- Which App endpoint was involved (`/quotes`, `/fx`, `/search`)
-- HTTP status code (if available)
-- Error type (for example: network error or decoding error)
-- Timestamp
+ApexView does not require you to create an ApexView account to use its core features.
+
+We do not upload your account names, balances, holdings quantities, income, expenses, net worth values, or retirement planning values to our servers for ordinary use of the App’s tracking and planning features.
+
+## 2. Market Quotes, Foreign Exchange Rates, and Symbol Search
+
+ApexView may provide features that retrieve market quotes, foreign exchange rates, or investment symbol search results.
+
+When you use these features, the App may send limited request information to our backend services, such as:
+
+- Ticker symbols or asset identifiers needed to request a quote
+- Symbol search terms entered by you
+- Currency codes or currency pairs needed to calculate a conversion
+- Date and time of the request
+- App version
+- Standard network information, such as your IP address, that is transmitted as part of an internet request
+
+This information is used only to provide the requested quote, foreign exchange rate, symbol search result, or related reliability functions.
+
+ApexView does not send your account names, balances, holdings quantities, income, expenses, net worth values, transaction history, or retirement planning values to our servers as part of these requests.
+
+## 3. Optional Anonymous Diagnostics
+
+ApexView may allow you to voluntarily share anonymous technical diagnostic information to help us identify bugs, investigate failures, and improve App reliability.
+
+Diagnostics are stored locally on your device unless you choose to share them. Diagnostic information is transmitted to our server only when you enable diagnostic sharing and manually choose to send a report through the App.
+
+A diagnostic report may include:
+
+- The App endpoint involved in an error, such as `/quotes`, `/fx`, or `/search`
+- HTTP status code, if available
+- Error category or technical failure type, such as a network or decoding error
+- Timestamp of the diagnostic event
 - App version
 - iOS version
 - Device model identifier
-- Backend environment label (staging/production)
-- A random request identifier (UUID)
+- Backend environment label, such as production or staging
+- A randomly generated request identifier, such as a UUID
 
-## Data We Do Not Collect
+Anonymous diagnostics are designed to avoid including your personal or financial records.
 
-ApexView’s anonymous diagnostics are designed to avoid personal and financial data. Diagnostics do not include:
+Diagnostic reports do not include:
+
 - Your name, email address, phone number, or contacts
-- Account names, institutions, or categories
-- Account balances or net worth values
-- Holdings, quantities, symbols, or transactions
-- Any content from your device outside the App
+- Your account names or financial institutions
+- Your account balances or net worth values
+- Your holdings quantities
+- Your income or expenses
+- Your transactions
+- Your retirement planning inputs or projections
+- Photos, documents, or content outside the App
 
-## How We Use Information
+## 4. iCloud and Apple Services
 
-We use anonymous diagnostics only to:
-- Improve App stability and reliability
-- Investigate and fix technical bugs
-- Monitor backend service health (quotes and FX providers)
+If ApexView offers an optional iCloud backup or synchronization feature and you choose to use it, the information included in that backup or synchronization is stored through your Apple iCloud account using Apple services.
 
-We do not use diagnostics for advertising, profiling, or marketing.
+We do not operate or control Apple’s iCloud service. Information stored in iCloud is handled by Apple according to your Apple account settings and Apple’s applicable privacy terms.
 
-## Sharing of Information
+If you do not enable an iCloud backup or synchronization feature, your locally entered ApexView financial records remain stored on your device unless you independently back up your device through Apple services.
 
-We do not sell your data.
+## 5. Purchases and Subscriptions
 
-If you choose to send anonymous diagnostics, those diagnostics are transmitted to our server and may be processed for troubleshooting and improving the App. We do not sell diagnostics and do not share them with third parties for advertising, analytics, or marketing purposes. Diagnostics are processed only on our own servers for the purpose of improving App reliability, or disclosed if required by law.
+If ApexView offers an in-app purchase or subscription and you choose to purchase it, the purchase is processed by Apple through the App Store.
 
+ApexView does not receive your full payment card information. Apple may provide the App with limited transaction or subscription status information required to confirm access to purchased functionality, restore purchases, or manage subscription access.
 
-## Third-Party Services
+Your payment relationship with Apple is governed by Apple’s applicable terms and privacy practices.
 
-ApexView retrieves market data and currency conversion rates through our backend services, which in turn may rely on third-party market data providers. Requests are used to provide quotes, FX rates, and symbol search.
+## 6. How We Use Information
 
-These providers may process IP addresses or basic request metadata as part of normal internet operations. ApexView does not send your personal or financial data to those providers.
+We use limited information processed through the App or our backend services only to:
 
-## Data Retention
+- Provide market quotes, foreign exchange rates, and symbol search results
+- Operate and maintain App functionality
+- Investigate user-submitted technical diagnostic reports
+- Identify and fix technical problems
+- Monitor the reliability and availability of backend services
+- Confirm purchased feature access or restore purchases, where applicable
+- Respond to support or privacy inquiries
 
-- On-device diagnostics: stored locally and can be cleared at any time in Settings.
-- Uploaded diagnostics (if you manually send): retained only as long as needed to troubleshoot and improve the App, then deleted or anonymized.
+We do not use your information for targeted advertising, user profiling, or marketing.
 
-## Your Choices and Controls
+## 7. Information We Do Not Sell or Use for Tracking
 
-You can control diagnostics at any time in Settings:
-- Turn “Share anonymous diagnostics” on or off
-- Tap “Send report now” to manually submit diagnostics (only if opted in)
-- Tap “Clear local diagnostics” to delete local diagnostics
+We do not sell your personal information or financial information.
 
-## Security
+We do not use ApexView data to track you across apps or websites owned by other companies for advertising purposes.
 
-We take reasonable measures to protect information transmitted to our server. However, no method of transmission or storage is 100% secure.
+We do not display third-party advertising in the App.
 
-## Children’s Privacy
+## 8. Sharing of Information
 
-ApexView is not intended for children under 13. We do not knowingly collect personal information from children.
+We may process or disclose limited information in the following circumstances:
 
-## Changes to This Policy
+### Service Providers
 
-We may update this Privacy Policy from time to time. If we make material changes, we will update the effective date above.
+Our backend may use third-party market data or foreign exchange data providers to return quote, symbol search, or currency conversion information requested through the App.
 
-## Contact
+These providers may receive limited information needed to fulfill a request, such as ticker symbols, symbol search terms, currency pairs, IP address, timestamp, and standard request metadata.
 
-If you have questions about this Privacy Policy, contact:
+They do not receive your ApexView account names, balances, holdings quantities, income, expenses, net worth values, transaction history, or retirement planning values from us.
+
+### Apple Services
+
+If you use App Store purchases, subscriptions, restore purchase functionality, or optional iCloud functionality, Apple processes information necessary to provide those services according to Apple’s applicable privacy practices.
+
+### Legal Requirements
+
+We may disclose information if required to comply with applicable law, regulation, legal process, or enforceable governmental request, or when reasonably necessary to protect the security and integrity of the App or our services.
+
+## 9. Data Retention
+
+### Information Stored on Your Device
+
+Financial records, App preferences, and locally stored diagnostics remain on your device unless you edit or delete them, clear local diagnostics through the App, delete the App, or remove them through available device or backup controls.
+
+### Market Quote, Foreign Exchange, and Symbol Search Requests
+
+Limited request information processed by our backend may be retained temporarily as reasonably necessary to operate, secure, troubleshoot, and improve the reliability of the requested services.
+
+### Submitted Diagnostic Reports
+
+If you manually submit an anonymous diagnostic report, it is retained only for as long as reasonably necessary to investigate technical issues, improve reliability, maintain service security, or comply with applicable legal obligations. It is then deleted or anonymized when it is no longer needed for those purposes.
+
+### Apple Services
+
+Information processed through Apple services, including purchases, subscriptions, or iCloud, is retained and managed by Apple according to Apple’s applicable policies and your Apple account settings.
+
+## 10. Your Choices and Controls
+
+ApexView provides controls that may allow you to manage your information and privacy choices, including:
+
+- Editing or deleting information you entered into the App
+- Turning optional anonymous diagnostic sharing on or off
+- Manually choosing whether to submit a diagnostic report
+- Clearing locally stored diagnostic information
+- Managing App Store subscriptions through your Apple account, where applicable
+- Managing iCloud settings through your Apple account or device settings, where applicable
+
+Because core financial records are stored locally on your device, deleting the App may remove locally stored App data unless that data has been included in a device backup or optional iCloud functionality that you enabled.
+
+## 11. Security
+
+We use reasonable technical and organizational measures intended to protect information processed through our services.
+
+Information transmitted between the App and our backend services is protected using standard encrypted internet connections where available and appropriate.
+
+However, no method of electronic transmission or storage can be guaranteed to be completely secure.
+
+## 12. Children’s Privacy
+
+ApexView is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13.
+
+If you believe that a child has provided information to us in a way that requires removal, please contact us using the information below.
+
+## 13. Your Privacy Rights
+
+Depending on your location and applicable law, you may have rights relating to personal information processed by us, which may include the right to request access, correction, deletion, or information about how your data is processed.
+
+Because most ApexView financial information is stored locally on your device rather than on our servers, you can generally access, edit, or delete that information directly within the App or by managing the App on your device.
+
+For questions or requests concerning information submitted to our servers, such as manually submitted diagnostic reports, please contact us using the email address below.
+
+## 14. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in the App, our services, legal requirements, or privacy practices.
+
+If we make material changes, we will update the Effective Date shown at the top of this Privacy Policy. Your continued use of the App after an updated policy becomes available means that the updated policy applies to your continued use of the App, subject to applicable law.
+
+## 15. Contact Us
+
+If you have questions, privacy requests, or concerns about this Privacy Policy or ApexView’s privacy practices, please contact:
 
 **ApexView Support**  
 Email: support@apexviewapp.com
